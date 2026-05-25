@@ -90,6 +90,14 @@ Average Pizzas Per Order
 
 ---
 
+### Interactive Features
+- Navigation buttons to switch between dashboards
+- Date slicer for dynamic date filtering
+- Pizza category slicer for interactive analysis
+- Fully interactive visuals and KPI cards
+
+---
+
 ## 📈 Key Insights
 - Highest orders were recorded on weekends, especially Friday and Saturday evenings.
 - July and January had the highest order volumes.
