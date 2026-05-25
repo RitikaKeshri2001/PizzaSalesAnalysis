@@ -114,7 +114,7 @@ Through this project, I improved my skills in:
 
 ## 🔗 Project Files
 - Power BI Dashboard (.pbix)
-- Dataset (.xlsx)
+- Dataset (.csv)
 - PDF Report
 
 ---
